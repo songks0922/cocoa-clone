@@ -42,8 +42,14 @@
   /* margin-bottom: 15px; */
 }
 
-.friends-screen__channel > .user-component,
-.chats-screen > .user-component {
+.friends-screen__channel > .user-component {
+  margin-bottom: 20px;
+}
+
+.chats-screen a {
+  text-decoration: none;
+  color: #2e363e;
+  display: block;
   margin-bottom: 20px;
 }
 
