@@ -16,3 +16,7 @@
     display: none;
   }
 }
+
+#index-page #no-mobile {
+  top: -90px;
+}

@@ -8,6 +8,10 @@
   background-color: #fff;
 }
 
+#index-page .status-bar {
+  margin-top: -90px;
+}
+
 .status-bar__column {
   width: 33%;
 }
