@@ -1,10 +1,13 @@
 .alt-header {
   padding: var(--horizontal-space);
-  margin-top: 300px;
   margin-bottom: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.chat-alt-header {
+  margin-top: 300px;
 }
 
 .alt-header__column {
