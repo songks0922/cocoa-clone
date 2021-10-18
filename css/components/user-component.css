@@ -39,7 +39,12 @@
 
 .user-component {
   justify-content: space-between;
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
+}
+
+.friends-screen__channel > .user-component,
+.chats-screen > .user-component {
+  margin-bottom: 20px;
 }
 
 .user-component__column:last-child {
